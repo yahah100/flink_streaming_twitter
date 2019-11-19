@@ -1,4 +1,4 @@
-# Twitter Flink Project (Yannik Hahn, 2321680)
+# Twitter Flink Project 
 ## Hashtags 
 - I used the Hashtags of "Google", "Facebook", "Apple", "Intel" and "Huawei" to Compare big tech companies.
 
