@@ -17,7 +17,7 @@
     - writes results to elasticsearch
 - The Predictions are done in TwitterStreamPredictions.java
     - writes results to elasticsearch
-- Video: https://youtu.be/9g-4a8KblCY
+
 
 ## Get started
 - You need to download elasticsearch 6.8.4 and kibana 6.8.4 
